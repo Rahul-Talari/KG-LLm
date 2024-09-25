@@ -1,0 +1,4 @@
+Commands:
+1. To install virtual environment        : conda create -p venv python=3.12 -y
+                                           conda activate venv/ 
+2. To install python kernel to run cells : conda install ipykernel 
